@@ -5,3 +5,4 @@ Download the model weights for face landmark detection and put them under “dli
 ### Test performance by running the command → python video.py
 
 You will see several windows, first for camera frame and other for faces. Rotate your face to see the alignment algorithm performance. 
+Note that code uses dlib hog method for face detection by default.
